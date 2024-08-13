@@ -41,18 +41,11 @@ Usage
 3. Save your work using the Save as HTML, Save as CSS, or Save as JavaScript buttons.
 4. Use the moon icon in the header to toggle between light and dark mode.
 
+Demo
+Live Demo
+
 Contributing
 Contributions are welcome! feel free to open an issue or submit a pull request if you have any suggestions or improvements.
-
-Screenshot of the project in light mode:
-https://github.com/user-attachments/assets/ce020efd-1857-4a9b-864c-bb79b5156dc9  
-
-Screenshot of the project in dark mode:
-https://github.com/user-attachments/assets/89c6b7aa-2ec4-4a4d-af2c-efaaef156ad5 
-
-Screenshot of the output window:
-https://github.com/user-attachments/assets/3b5b9098-212f-445d-8e22-62deb3aa8a41
-
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
