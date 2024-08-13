@@ -35,22 +35,22 @@ To use this project locally, follow these steps:
    
 3. Open index.html in your preferred web browser.
 
-Usage
+## Usage
 1. Write your HTML, CSS, or JavaScript code in the provided text area.
 2. Click the Run Code button to view the output in a SweetAlert popup.
 3. Save your work using the Save as HTML, Save as CSS, or Save as JavaScript buttons.
 4. Use the moon icon in the header to toggle between light and dark mode.
 
-Demo
+## Demo
 [Live Demo](https://pro5765.github.io/Online-HTML-Editor/)
 
 Contributing
 Contributions are welcome! feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+## Acknowledgments
 1. CodeMirror, which provides a powerful text editor interface.
 2. SweetAlert2 for the beautiful alert popups.
 3. Bootstrap for the responsive design framework.
