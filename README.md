@@ -1,11 +1,11 @@
 # Online HTML Editor
 
-This project is an interactive online editor for HTML, CSS, and JavaScript, allowing users to code, preview, and save their work in real-time. The editor features a clean and user-friendly interface with additional functionality such as dark mode, tooltips, and the ability to save code snippets in different formats.
+This project is an interactive online editor for HTML, CSS, and JavaScript, allowing users to code, preview, and save their work in real time. The editor features a clean and user-friendly interface with additional functionality such as dark mode, tooltips, and the ability to save code snippets in different formats.
 
 ## Features
 
 - **Real-Time Code Execution**: Write HTML, CSS, and JavaScript code and preview the output instantly in a modal window.
-- **File Saving**: Save your code directly from the editor as `.html`, `.css`, or `.js` files.
+- **File Saving**: Save your code directly from the editor as `.html,` `.css,` or `.js` files.
 - **Dark Mode Toggle**: Easily switch between light and dark themes for a comfortable coding experience.
 - **Responsive Design**: The layout adapts seamlessly to different screen sizes.
 - **Bootstrap Integration**: Utilizes Bootstrap for styling, ensuring a professional and polished appearance.
@@ -41,18 +41,16 @@ Usage
 3. Save your work using the Save as HTML, Save as CSS, or Save as JavaScript buttons.
 4. Use the moon icon in the header to toggle between light and dark mode.
 
-Demo
-[Link to the live demo]
-
 Contributing
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! if you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgments
-CodeMirror for providing a powerful text editor interface.
-SweetAlert2 for the beautiful alert popups.
-Bootstrap for the responsive design framework.
-FontAwesome for the icons.
-© 2024 Online HTML Editor. Created by Ark. All Rights Reserved.
+1. CodeMirror, which provides a powerful text editor interface.
+2. SweetAlert2 for the beautiful alert popups.
+3. Bootstrap for the responsive design framework.
+4. FontAwesome for the icons.
+   
+© 2024 Online HTML Editor. Created by Ark, aka Pro5765. All Rights Reserved.
