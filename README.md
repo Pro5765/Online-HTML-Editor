@@ -42,7 +42,18 @@ Usage
 4. Use the moon icon in the header to toggle between light and dark mode.
 
 Contributing
-Contributions are welcome! if you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! feel free to open an issue or submit a pull request if you have any suggestions or improvements.
+
+Screenshots of the project:
+https://github.com/user-attachments/assets/ce020efd-1857-4a9b-864c-bb79b5156dc9  <------------------ Screenshot of the project in light mode
+https://github.com/user-attachments/assets/89c6b7aa-2ec4-4a4d-af2c-efaaef156ad5 <--------------- Screenshot of the pro
+
+
+
+
+
+
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
