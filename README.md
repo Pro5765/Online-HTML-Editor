@@ -28,3 +28,31 @@ To use this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/online-html-editor.git
+
+
+2. Navigate to the project directory:
+   cd online-html-editor
+   
+3. Open index.html in your preferred web browser.
+
+Usage
+1. Write your HTML, CSS, or JavaScript code in the provided text area.
+2. Click the Run Code button to view the output in a SweetAlert popup.
+3. Save your work using the Save as HTML, Save as CSS, or Save as JavaScript buttons.
+4. Use the moon icon in the header to toggle between light and dark mode.
+
+Demo
+[Link to the live demo]
+
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+CodeMirror for providing a powerful text editor interface.
+SweetAlert2 for the beautiful alert popups.
+Bootstrap for the responsive design framework.
+FontAwesome for the icons.
+© 2024 Online HTML Editor. Created by Ark. All Rights Reserved.
