@@ -51,9 +51,9 @@ Contributions are welcome! feel free to open an issue or submit a pull request i
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pro5765/Online-HTML-Editor/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
-1. CodeMirror, which provides a powerful text editor interface.
-2. SweetAlert2 for the beautiful alert popups.
-3. Bootstrap for the responsive design framework.
-4. FontAwesome for the icons.
+1. [CodeMirror](https://codemirror.net), which provides a powerful text editor interface.
+2. [SweetAlert2](https://sweetalert2.github.io) for the beautiful alert popups.
+3. [Bootstrap](https://getbootstrap.com) for the responsive design framework.
+4. [FontAwesome](https://fontawesome.com) for the icons.
    
 © 2024 Online HTML Editor. Created by Ark, aka Pro5765. All Rights Reserved.
