@@ -42,7 +42,7 @@ Usage
 4. Use the moon icon in the header to toggle between light and dark mode.
 
 Demo
-Live Demo
+[Live Demo](https://pro5765.github.io/Online-HTML-Editor/)
 
 Contributing
 Contributions are welcome! feel free to open an issue or submit a pull request if you have any suggestions or improvements.
