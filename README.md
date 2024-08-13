@@ -48,7 +48,7 @@ To use this project locally, follow these steps:
 Contributions are welcome! feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pro5765/Online-HTML-Editor/tree/main?tab=MIT-1-ov-file#) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Pro5765/Online-HTML-Editor/blob/main/LICENSE) file for more details.
 
 ## Acknowledgments
 1. CodeMirror, which provides a powerful text editor interface.
