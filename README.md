@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/3b5b9098-212f-445d-8e22-62deb3aa8a41
 
 
 License
-This project is licensed under the MIT License. See the LICENSE file for more details: https://github.com/Pro5765/Online-HTML-Editor/tree/main?tab=MIT-1-ov-file#.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Acknowledgments
 1. CodeMirror, which provides a powerful text editor interface.
