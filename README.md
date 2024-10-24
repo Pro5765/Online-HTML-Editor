@@ -26,7 +26,6 @@ This project is an interactive online editor for HTML, CSS, and JavaScript, allo
 To use this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/online-html-editor.git
 
 
